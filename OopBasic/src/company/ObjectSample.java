@@ -1,7 +1,5 @@
 package company;
 
-import java.lang.invoke.VarHandle;
-
 public class ObjectSample {
 
     public static void main(String[] args) {
